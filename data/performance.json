@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T01:41:30.562353+00:00",
-  "total_cards": 2,
+  "updated_at": "2026-04-23T01:52:26.204146+00:00",
+  "total_cards": 3,
   "cards": [
     {
       "date": "2026-04-23",
@@ -50,7 +50,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T01:41:30.973366+00:00"
+      "last_updated": "2026-04-23T01:52:26.598874+00:00"
     },
     {
       "date": "2026-04-23",
@@ -113,7 +113,57 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T01:41:31.387179+00:00"
+      "last_updated": "2026-04-23T01:52:26.810661+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T01:52:26.203649+00:00",
+      "assets": [
+        {
+          "ticker": "BAC",
+          "signal": "BUY",
+          "confidence": 0.565,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2965,
+          "rationale": "Based on 14 articles from 1 sources. Sentiment score: +0.296. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 53.119998931884766,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "USO",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 42 articles from 1 sources. Sentiment score: +0.228. Positive signals: 18, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 129.39999389648438,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "JD",
+          "signal": "BUY",
+          "confidence": 0.3,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.248,
+          "rationale": "Based on 2 articles from 1 sources. Sentiment score: +0.248. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 30.610000610351562,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 300.0,
+      "current_value": 300.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T01:52:26.906027+00:00"
     }
   ],
   "all_time_best": {
@@ -164,7 +214,7 @@
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T01:41:30.973366+00:00"
+    "last_updated": "2026-04-23T01:52:26.598874+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -214,7 +264,7 @@
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T01:41:30.973366+00:00"
+    "last_updated": "2026-04-23T01:52:26.598874+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $300.00 (+0.0%). \ud83d\ude80"
 }
