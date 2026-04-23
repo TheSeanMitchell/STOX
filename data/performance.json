@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T23:36:52.139174+00:00",
-  "total_cards": 4,
+  "updated_at": "2026-04-23T23:54:58.358294+00:00",
+  "total_cards": 5,
   "cards": [
     {
       "date": "2026-04-23",
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:36:53.513768+00:00"
+      "last_updated": "2026-04-23T23:54:59.082457+00:00"
     },
     {
       "date": "2026-04-23",
@@ -126,7 +126,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:36:54.008897+00:00"
+      "last_updated": "2026-04-23T23:54:59.344529+00:00"
     },
     {
       "date": "2026-04-23",
@@ -202,7 +202,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:36:55.196636+00:00"
+      "last_updated": "2026-04-23T23:54:59.782051+00:00"
     },
     {
       "date": "2026-04-23",
@@ -252,7 +252,31 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:36:55.470735+00:00"
+      "last_updated": "2026-04-23T23:54:59.872064+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T23:54:58.357686+00:00",
+      "assets": [
+        {
+          "ticker": "MSTR",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2679,
+          "rationale": "Based on 23 articles from 1 sources. Sentiment score: +0.268. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 172.47000122070312,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 100.0,
+      "current_value": 100.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T23:54:59.947606+00:00"
     }
   ],
   "all_time_best": {
@@ -329,7 +353,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:36:53.513768+00:00"
+    "last_updated": "2026-04-23T23:54:59.082457+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -405,7 +429,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:36:53.513768+00:00"
+    "last_updated": "2026-04-23T23:54:59.082457+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }
