@@ -1,1 +1,235 @@
-{"_empty": true, "cards": []}
+{
+  "updated_at": "2026-04-23T05:38:37.854804+00:00",
+  "total_cards": 1,
+  "cards": [
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T05:38:37.854382+00:00",
+      "assets": [
+        {
+          "ticker": "TSM",
+          "signal": "BUY",
+          "confidence": 0.69,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2537,
+          "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 387.44000244140625,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "CRWD",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2296,
+          "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 466.67999267578125,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "PANW",
+          "signal": "BUY",
+          "confidence": 0.551,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2466,
+          "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 181.1999969482422,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "RIVN",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.37,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 17.739999771118164,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "MS",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.248,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 191.0500030517578,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 500.0,
+      "current_value": 500.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T05:38:38.395872+00:00"
+    }
+  ],
+  "all_time_best": {
+    "date": "2026-04-23",
+    "generated_at": "2026-04-23T05:38:37.854382+00:00",
+    "assets": [
+      {
+        "ticker": "TSM",
+        "signal": "BUY",
+        "confidence": 0.69,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2537,
+        "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 387.44000244140625,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "CRWD",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2296,
+        "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 466.67999267578125,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.551,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2466,
+        "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 181.1999969482422,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "RIVN",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 17.739999771118164,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "MS",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.248,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 191.0500030517578,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      }
+    ],
+    "total_invested": 500.0,
+    "current_value": 500.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+    "percent_return": 0.0,
+    "last_updated": "2026-04-23T05:38:38.395872+00:00"
+  },
+  "all_time_worst": {
+    "date": "2026-04-23",
+    "generated_at": "2026-04-23T05:38:37.854382+00:00",
+    "assets": [
+      {
+        "ticker": "TSM",
+        "signal": "BUY",
+        "confidence": 0.69,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2537,
+        "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 387.44000244140625,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "CRWD",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2296,
+        "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 466.67999267578125,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.551,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2466,
+        "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 181.1999969482422,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "RIVN",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 17.739999771118164,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      },
+      {
+        "ticker": "MS",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.248,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+        "current_price": 191.0500030517578,
+        "current_value": 100.0,
+        "return_pct": 0.0
+      }
+    ],
+    "total_invested": 500.0,
+    "current_value": 500.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+    "percent_return": 0.0,
+    "last_updated": "2026-04-23T05:38:38.395872+00:00"
+  },
+  "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
+}
