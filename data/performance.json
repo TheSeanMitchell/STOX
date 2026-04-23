@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T23:30:55.520317+00:00",
-  "total_cards": 3,
+  "updated_at": "2026-04-23T23:36:52.139174+00:00",
+  "total_cards": 4,
   "cards": [
     {
       "date": "2026-04-23",
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:30:56.242833+00:00"
+      "last_updated": "2026-04-23T23:36:53.513768+00:00"
     },
     {
       "date": "2026-04-23",
@@ -126,7 +126,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:30:56.628285+00:00"
+      "last_updated": "2026-04-23T23:36:54.008897+00:00"
     },
     {
       "date": "2026-04-23",
@@ -202,7 +202,57 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:30:57.452321+00:00"
+      "last_updated": "2026-04-23T23:36:55.196636+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T23:36:52.138576+00:00",
+      "assets": [
+        {
+          "ticker": "SNOW",
+          "signal": "BUY",
+          "confidence": 0.9,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.287,
+          "rationale": "Based on 50 articles from 5 sources. Sentiment score: +0.287. Positive signals: 19, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 146.39999389648438,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "PANW",
+          "signal": "BUY",
+          "confidence": 0.565,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.247,
+          "rationale": "Based on 14 articles from 1 sources. Sentiment score: +0.247. Positive signals: 7, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 173.2100067138672,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "RIVN",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.37,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 16.950000762939453,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 300.0,
+      "current_value": 300.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T23:36:55.470735+00:00"
     }
   ],
   "all_time_best": {
@@ -279,7 +329,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:30:56.242833+00:00"
+    "last_updated": "2026-04-23T23:36:53.513768+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -355,7 +405,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:30:56.242833+00:00"
+    "last_updated": "2026-04-23T23:36:53.513768+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }
