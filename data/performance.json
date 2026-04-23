@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T23:13:54.181036+00:00",
-  "total_cards": 2,
+  "updated_at": "2026-04-23T23:30:55.520317+00:00",
+  "total_cards": 3,
   "cards": [
     {
       "date": "2026-04-23",
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:13:55.086806+00:00"
+      "last_updated": "2026-04-23T23:30:56.242833+00:00"
     },
     {
       "date": "2026-04-23",
@@ -126,7 +126,83 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:13:55.213975+00:00"
+      "last_updated": "2026-04-23T23:30:56.628285+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T23:30:55.519813+00:00",
+      "assets": [
+        {
+          "ticker": "CRWD",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2296,
+          "rationale": "Based on 20 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 445.3900146484375,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "AMD",
+          "signal": "BUY",
+          "confidence": 0.594,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 4 articles from 4 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 305.3299865722656,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "UNH",
+          "signal": "BUY",
+          "confidence": 0.37,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.355,
+          "rationale": "Based on 2 articles from 2 sources. Sentiment score: +0.355. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 354.55999755859375,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "HD",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 340.1600036621094,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "DDOG",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 127.86000061035156,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 500.0,
+      "current_value": 500.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T23:30:57.452321+00:00"
     }
   ],
   "all_time_best": {
@@ -203,7 +279,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:13:55.086806+00:00"
+    "last_updated": "2026-04-23T23:30:56.242833+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -279,7 +355,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:13:55.086806+00:00"
+    "last_updated": "2026-04-23T23:30:56.242833+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }
