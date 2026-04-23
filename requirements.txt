@@ -11,5 +11,4 @@ yfinance>=0.2.36
 # Data Processing
 python-dateutil>=2.8.2
 
-# Optional but recommended
-difflib  # stdlib - fuzzy deduplication (already in Python stdlib)
+# Note: difflib is part of Python's standard library — no install needed
