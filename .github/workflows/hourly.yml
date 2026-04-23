@@ -1,0 +1,44 @@
+name: STOX Hourly Intelligence Run
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Every hour on the hour
+  workflow_dispatch:        # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  stox-hourly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run STOX hourly job
+        run: python bot.py --mode hourly
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "stox-bot@github.com"
+          git config --local user.name "STOX Bot"
+          git add data/ docs/data/ || true
+          git diff --staged --quiet || git commit -m "⚡ STOX hourly update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
