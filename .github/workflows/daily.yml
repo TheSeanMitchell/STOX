@@ -32,17 +32,17 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run STOX hourly job (ensure fresh signals)
+      - name: Run STOX hourly job (ensure fresh signals at close)
         run: python bot.py --mode hourly
         env:
           PYTHONUNBUFFERED: "1"
 
-      - name: Run STOX daily job (trade card + performance)
+      - name: Run STOX daily job (trade card + performance + site)
         run: python bot.py --mode daily
         env:
           PYTHONUNBUFFERED: "1"
 
-      - name: Commit updated data + site
+      - name: Commit updated data and site
         run: |
           git config --local user.email "stox-bot@github.com"
           git config --local user.name "STOX Bot"
