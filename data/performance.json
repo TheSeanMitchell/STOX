@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T01:22:58.969727+00:00",
-  "total_cards": 1,
+  "updated_at": "2026-04-23T01:41:30.562353+00:00",
+  "total_cards": 2,
   "cards": [
     {
       "date": "2026-04-23",
@@ -50,7 +50,70 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T01:22:59.934896+00:00"
+      "last_updated": "2026-04-23T01:41:30.973366+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T01:41:30.561904+00:00",
+      "assets": [
+        {
+          "ticker": "MSTR",
+          "signal": "BUY",
+          "confidence": 0.69,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.322,
+          "rationale": "Based on 34 articles from 2 sources. Sentiment score: +0.322. Positive signals: 4, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 179.36000061035156,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "QCOM",
+          "signal": "STRONG_BUY",
+          "confidence": 0.454,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.457,
+          "rationale": "Based on 4 articles from 2 sources. Sentiment score: +0.457. Positive signals: 3, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 136.07000732421875,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "TSM",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.322,
+          "rationale": "Based on 33 articles from 1 sources. Sentiment score: +0.322. Positive signals: 15, Negative signals: 2. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 387.44000244140625,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "BAC",
+          "signal": "BUY",
+          "confidence": 0.565,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2965,
+          "rationale": "Based on 14 articles from 1 sources. Sentiment score: +0.296. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 53.119998931884766,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 400.0,
+      "current_value": 400.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-23T01:41:31.387179+00:00"
     }
   ],
   "all_time_best": {
@@ -101,7 +164,7 @@
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T01:22:59.934896+00:00"
+    "last_updated": "2026-04-23T01:41:30.973366+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -151,7 +214,7 @@
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T01:22:59.934896+00:00"
+    "last_updated": "2026-04-23T01:41:30.973366+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $300.00 (+0.0%). \ud83d\ude80"
 }
