@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T14:04:44.284072+00:00",
-  "total_cards": 11,
+  "updated_at": "2026-04-24T16:10:40.022594+00:00",
+  "total_cards": 12,
   "cards": [
     {
       "date": "2026-04-23",
@@ -15,7 +15,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2537,
           "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 398.42999267578125,
+          "current_price": 407.3500061035156,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -28,7 +28,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2296,
           "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 442.4800109863281,
+          "current_price": 441.6400146484375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -41,7 +41,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2466,
           "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 175.34759521484375,
+          "current_price": 175.1199951171875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -54,7 +54,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.37,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 16.5,
+          "current_price": 16.584999084472656,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -67,7 +67,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.248,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 188.07000732421875,
+          "current_price": 188.75,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:45.603642+00:00"
+      "last_updated": "2026-04-24T16:10:40.494166+00:00"
     },
     {
       "date": "2026-04-23",
@@ -91,7 +91,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.4205,
           "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.420. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 1448.52001953125,
+          "current_price": 1463.987548828125,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -104,7 +104,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2665,
           "rationale": "Based on 24 articles from 1 sources. Sentiment score: +0.267. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 175.34759521484375,
+          "current_price": 175.1199951171875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -117,7 +117,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.248,
           "rationale": "Based on 3 articles from 2 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 1.6102999448776245,
+          "current_price": 1.6150000095367432,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -126,7 +126,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:46.113072+00:00"
+      "last_updated": "2026-04-24T16:10:40.609026+00:00"
     },
     {
       "date": "2026-04-23",
@@ -141,7 +141,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2296,
           "rationale": "Based on 20 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 442.4800109863281,
+          "current_price": 441.6400146484375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -154,7 +154,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 4 articles from 4 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 341.54998779296875,
+          "current_price": 350.989990234375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -167,7 +167,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.355,
           "rationale": "Based on 2 articles from 2 sources. Sentiment score: +0.355. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 352.7099914550781,
+          "current_price": 352.80511474609375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -180,7 +180,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 338.635009765625,
+          "current_price": 338.8399963378906,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -193,7 +193,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 125.08999633789062,
+          "current_price": 127.30000305175781,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -202,7 +202,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:47.271576+00:00"
+      "last_updated": "2026-04-24T16:10:41.195804+00:00"
     },
     {
       "date": "2026-04-23",
@@ -217,7 +217,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.287,
           "rationale": "Based on 50 articles from 5 sources. Sentiment score: +0.287. Positive signals: 19, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 134.52000427246094,
+          "current_price": 138.55999755859375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -230,7 +230,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.247,
           "rationale": "Based on 14 articles from 1 sources. Sentiment score: +0.247. Positive signals: 7, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 175.34759521484375,
+          "current_price": 175.1199951171875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -243,7 +243,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.37,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 16.5,
+          "current_price": 16.584999084472656,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -252,7 +252,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:47.569962+00:00"
+      "last_updated": "2026-04-24T16:10:41.331604+00:00"
     },
     {
       "date": "2026-04-23",
@@ -267,7 +267,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2679,
           "rationale": "Based on 23 articles from 1 sources. Sentiment score: +0.268. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 171.52999877929688,
+          "current_price": 170.90499877929688,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -276,7 +276,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:47.886066+00:00"
+      "last_updated": "2026-04-24T16:10:41.413568+00:00"
     },
     {
       "date": "2026-04-24",
@@ -291,7 +291,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.247,
           "rationale": "Based on 15 articles from 2 sources. Sentiment score: +0.247. Positive signals: 8, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 175.34759521484375,
+          "current_price": 175.1199951171875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -304,7 +304,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.4205,
           "rationale": "Based on 2 articles from 2 sources. Sentiment score: +0.420. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 1448.52001953125,
+          "current_price": 1463.987548828125,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -313,7 +313,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:47.952261+00:00"
+      "last_updated": "2026-04-24T16:10:41.435642+00:00"
     },
     {
       "date": "2026-04-24",
@@ -328,7 +328,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.4205,
           "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.420. Positive signals: 1, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 1448.52001953125,
+          "current_price": 1463.987548828125,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -341,7 +341,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2264,
           "rationale": "Based on 17 articles from 1 sources. Sentiment score: +0.226. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 52.380001068115234,
+          "current_price": 52.349998474121094,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -354,7 +354,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.322,
           "rationale": "Based on 3 articles from 2 sources. Sentiment score: +0.322. Positive signals: 1, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 131.25999450683594,
+          "current_price": 130.4600067138672,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -363,7 +363,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:48.735278+00:00"
+      "last_updated": "2026-04-24T16:10:41.770154+00:00"
     },
     {
       "date": "2026-04-24",
@@ -378,7 +378,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.322,
           "rationale": "Based on 23 articles from 1 sources. Sentiment score: +0.322. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 442.4800109863281,
+          "current_price": 441.6400146484375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -391,7 +391,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2507,
           "rationale": "Based on 26 articles from 1 sources. Sentiment score: +0.251. Positive signals: 3, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 175.34759521484375,
+          "current_price": 175.1199951171875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -404,7 +404,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.37,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 16.5,
+          "current_price": 16.584999084472656,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -413,7 +413,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:48.846342+00:00"
+      "last_updated": "2026-04-24T16:10:41.799747+00:00"
     },
     {
       "date": "2026-04-24",
@@ -428,7 +428,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 308.1199951171875,
+          "current_price": 307.70001220703125,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -441,7 +441,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 2 articles from 2 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 161.39999389648438,
+          "current_price": 161.4199981689453,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -450,7 +450,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:49.697603+00:00"
+      "last_updated": "2026-04-24T16:10:42.032975+00:00"
     },
     {
       "date": "2026-04-24",
@@ -465,7 +465,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.457,
           "rationale": "Based on 52 articles from 4 sources. Sentiment score: +0.457. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 49.93000030517578,
+          "current_price": 50.029998779296875,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -478,7 +478,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.3792,
           "rationale": "Based on 4 articles from 2 sources. Sentiment score: +0.379. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 1448.52001953125,
+          "current_price": 1463.987548828125,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -491,7 +491,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.322,
           "rationale": "Based on 3 articles from 2 sources. Sentiment score: +0.322. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 308.1199951171875,
+          "current_price": 307.70001220703125,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -500,7 +500,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:50.037773+00:00"
+      "last_updated": "2026-04-24T16:10:42.093256+00:00"
     },
     {
       "date": "2026-04-24",
@@ -515,7 +515,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.436,
           "rationale": "Based on 13 articles from 2 sources. Sentiment score: +0.436. Positive signals: 8, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 308.1199951171875,
+          "current_price": 307.70001220703125,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -528,7 +528,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.2678,
           "rationale": "Based on 53 articles from 5 sources. Sentiment score: +0.268. Positive signals: 15, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 134.52000427246094,
+          "current_price": 138.55999755859375,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -541,7 +541,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.37,
           "rationale": "Based on 2 articles from 1 sources. Sentiment score: +0.370. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 132.07000732421875,
+          "current_price": 131.77000427246094,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -554,7 +554,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.248,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 30.165000915527344,
+          "current_price": 30.225000381469727,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -567,7 +567,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 16.5,
+          "current_price": 16.584999084472656,
           "current_value": 100.0,
           "return_pct": 0.0
         },
@@ -580,7 +580,7 @@
           "allocated": 100.0,
           "sentiment_score": 0.228,
           "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-          "current_price": 13.904999732971191,
+          "current_price": 14.015000343322754,
           "current_value": 100.0,
           "return_pct": 0.0
         }
@@ -589,7 +589,70 @@
       "current_value": 600.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-24T14:04:51.007802+00:00"
+      "last_updated": "2026-04-24T16:10:42.446900+00:00"
+    },
+    {
+      "date": "2026-04-24",
+      "generated_at": "2026-04-24T16:10:40.021561+00:00",
+      "assets": [
+        {
+          "ticker": "UBER",
+          "signal": "BUY",
+          "confidence": 0.95,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2539,
+          "rationale": "Based on 46 articles from 7 sources. Sentiment score: +0.254. Positive signals: 7, Negative signals: 2. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 74.31999969482422,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "CRWD",
+          "signal": "BUY",
+          "confidence": 0.62,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.3185,
+          "rationale": "Based on 27 articles from 1 sources. Sentiment score: +0.319. Positive signals: 13, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 441.6400146484375,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "BAC",
+          "signal": "BUY",
+          "confidence": 0.69,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2264,
+          "rationale": "Based on 20 articles from 2 sources. Sentiment score: +0.226. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 52.349998474121094,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "MRNA",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 51.09000015258789,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 400.0,
+      "current_value": 400.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-24T16:10:42.567788+00:00"
     }
   ],
   "all_time_best": {
@@ -605,7 +668,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2537,
         "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 398.42999267578125,
+        "current_price": 407.3500061035156,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -618,7 +681,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2296,
         "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 442.4800109863281,
+        "current_price": 441.6400146484375,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -631,7 +694,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2466,
         "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 175.34759521484375,
+        "current_price": 175.1199951171875,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -644,7 +707,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.37,
         "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 16.5,
+        "current_price": 16.584999084472656,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -657,7 +720,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.248,
         "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 188.07000732421875,
+        "current_price": 188.75,
         "current_value": 100.0,
         "return_pct": 0.0
       }
@@ -666,7 +729,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-24T14:04:45.603642+00:00"
+    "last_updated": "2026-04-24T16:10:40.494166+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -681,7 +744,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2537,
         "rationale": "Based on 30 articles from 2 sources. Sentiment score: +0.254. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 398.42999267578125,
+        "current_price": 407.3500061035156,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -694,7 +757,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2296,
         "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.230. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 442.4800109863281,
+        "current_price": 441.6400146484375,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -707,7 +770,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.2466,
         "rationale": "Based on 8 articles from 2 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 175.34759521484375,
+        "current_price": 175.1199951171875,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -720,7 +783,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.37,
         "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 16.5,
+        "current_price": 16.584999084472656,
         "current_value": 100.0,
         "return_pct": 0.0
       },
@@ -733,7 +796,7 @@
         "allocated": 100.0,
         "sentiment_score": 0.248,
         "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
-        "current_price": 188.07000732421875,
+        "current_price": 188.75,
         "current_value": 100.0,
         "return_pct": 0.0
       }
@@ -742,7 +805,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-24T14:04:45.603642+00:00"
+    "last_updated": "2026-04-24T16:10:40.494166+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }

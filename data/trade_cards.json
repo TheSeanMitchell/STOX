@@ -457,5 +457,54 @@
     "total_invested": 600.0,
     "current_value": 600.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T16:10:40.021561+00:00",
+    "assets": [
+      {
+        "ticker": "UBER",
+        "signal": "BUY",
+        "confidence": 0.95,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2539,
+        "rationale": "Based on 46 articles from 7 sources. Sentiment score: +0.254. Positive signals: 7, Negative signals: 2. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "CRWD",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.3185,
+        "rationale": "Based on 27 articles from 1 sources. Sentiment score: +0.319. Positive signals: 13, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "BAC",
+        "signal": "BUY",
+        "confidence": 0.69,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2264,
+        "rationale": "Based on 20 articles from 2 sources. Sentiment score: +0.226. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "MRNA",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.228,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 400.0,
+    "current_value": 400.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
