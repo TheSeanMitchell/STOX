@@ -281,5 +281,44 @@
     "total_invested": 300.0,
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T08:13:15.065557+00:00",
+    "assets": [
+      {
+        "ticker": "CRWD",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 23 articles from 1 sources. Sentiment score: +0.322. Positive signals: 4, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2507,
+        "rationale": "Based on 26 articles from 1 sources. Sentiment score: +0.251. Positive signals: 3, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "RIVN",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 300.0,
+    "current_value": 300.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
