@@ -242,5 +242,44 @@
     "total_invested": 200.0,
     "current_value": 200.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T05:42:43.034763+00:00",
+    "assets": [
+      {
+        "ticker": "ASML",
+        "signal": "BUY",
+        "confidence": 0.488,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.4205,
+        "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.420. Positive signals: 1, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "BAC",
+        "signal": "BUY",
+        "confidence": 0.595,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2264,
+        "rationale": "Based on 17 articles from 1 sources. Sentiment score: +0.226. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "WMT",
+        "signal": "BUY",
+        "confidence": 0.418,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 3 articles from 2 sources. Sentiment score: +0.322. Positive signals: 1, Negative signals: 1. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 300.0,
+    "current_value": 300.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
