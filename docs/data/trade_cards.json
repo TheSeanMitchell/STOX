@@ -731,5 +731,54 @@
     "total_invested": 100.0,
     "current_value": 100.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T22:45:58.199677+00:00",
+    "assets": [
+      {
+        "ticker": "DIS",
+        "signal": "BUY",
+        "confidence": 0.83,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 52 articles from 4 sources. Sentiment score: +0.322. Positive signals: 7, Negative signals: 3. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 29 articles from 1 sources. Sentiment score: +0.322. Positive signals: 7, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "SOL",
+        "signal": "BUY",
+        "confidence": 0.488,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2844,
+        "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.284. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "PFE",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.248,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 400.0,
+    "current_value": 400.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
