@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T23:54:58.358294+00:00",
-  "total_cards": 5,
+  "updated_at": "2026-04-24T02:57:12.358080+00:00",
+  "total_cards": 6,
   "cards": [
     {
       "date": "2026-04-23",
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:54:59.082457+00:00"
+      "last_updated": "2026-04-24T02:57:12.846098+00:00"
     },
     {
       "date": "2026-04-23",
@@ -126,7 +126,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:54:59.344529+00:00"
+      "last_updated": "2026-04-24T02:57:12.967390+00:00"
     },
     {
       "date": "2026-04-23",
@@ -202,7 +202,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:54:59.782051+00:00"
+      "last_updated": "2026-04-24T02:57:13.399416+00:00"
     },
     {
       "date": "2026-04-23",
@@ -252,7 +252,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:54:59.872064+00:00"
+      "last_updated": "2026-04-24T02:57:13.456472+00:00"
     },
     {
       "date": "2026-04-23",
@@ -276,7 +276,44 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-23T23:54:59.947606+00:00"
+      "last_updated": "2026-04-24T02:57:13.543958+00:00"
+    },
+    {
+      "date": "2026-04-24",
+      "generated_at": "2026-04-24T02:57:12.357380+00:00",
+      "assets": [
+        {
+          "ticker": "PANW",
+          "signal": "BUY",
+          "confidence": 0.645,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.247,
+          "rationale": "Based on 15 articles from 2 sources. Sentiment score: +0.247. Positive signals: 8, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 173.2100067138672,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "ASML",
+          "signal": "BUY",
+          "confidence": 0.37,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.4205,
+          "rationale": "Based on 2 articles from 2 sources. Sentiment score: +0.420. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 1417.800048828125,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 200.0,
+      "current_value": 200.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-24T02:57:13.564607+00:00"
     }
   ],
   "all_time_best": {
@@ -353,7 +390,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:54:59.082457+00:00"
+    "last_updated": "2026-04-24T02:57:12.846098+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -429,7 +466,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-23T23:54:59.082457+00:00"
+    "last_updated": "2026-04-24T02:57:12.846098+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }
