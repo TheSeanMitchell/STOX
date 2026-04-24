@@ -388,5 +388,74 @@
     "total_invested": 300.0,
     "current_value": 300.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T14:04:44.283291+00:00",
+    "assets": [
+      {
+        "ticker": "V",
+        "signal": "BUY",
+        "confidence": 0.623,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.436,
+        "rationale": "Based on 13 articles from 2 sources. Sentiment score: +0.436. Positive signals: 8, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "SNOW",
+        "signal": "BUY",
+        "confidence": 0.9,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2678,
+        "rationale": "Based on 53 articles from 5 sources. Sentiment score: +0.268. Positive signals: 15, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "ZS",
+        "signal": "BUY",
+        "confidence": 0.3,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 2 articles from 1 sources. Sentiment score: +0.370. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "JD",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.248,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.248. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "RIVN",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.228,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "LYFT",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.228,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.228. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 600.0,
+    "current_value": 600.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
