@@ -349,5 +349,44 @@
     "total_invested": 200.0,
     "current_value": 200.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T12:03:52.425278+00:00",
+    "assets": [
+      {
+        "ticker": "PYPL",
+        "signal": "STRONG_BUY",
+        "confidence": 0.83,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.457,
+        "rationale": "Based on 52 articles from 4 sources. Sentiment score: +0.457. Positive signals: 6, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "ASML",
+        "signal": "BUY",
+        "confidence": 0.454,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.3792,
+        "rationale": "Based on 4 articles from 2 sources. Sentiment score: +0.379. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "V",
+        "signal": "BUY",
+        "confidence": 0.418,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 3 articles from 2 sources. Sentiment score: +0.322. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 300.0,
+    "current_value": 300.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
