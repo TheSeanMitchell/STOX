@@ -555,5 +555,64 @@
     "total_invested": 400.0,
     "current_value": 400.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T19:01:29.910085+00:00",
+    "assets": [
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.62,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.322,
+        "rationale": "Based on 30 articles from 1 sources. Sentiment score: +0.322. Positive signals: 7, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "PLTR",
+        "signal": "BUY",
+        "confidence": 0.9,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2197,
+        "rationale": "Based on 48 articles from 8 sources. Sentiment score: +0.220. Positive signals: 3, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "SOL",
+        "signal": "BUY",
+        "confidence": 0.735,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2173,
+        "rationale": "Based on 17 articles from 3 sources. Sentiment score: +0.217. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "ZS",
+        "signal": "BUY",
+        "confidence": 0.3,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 2 articles from 1 sources. Sentiment score: +0.370. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "RIVN",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.37,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.370. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 500.0,
+    "current_value": 500.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
