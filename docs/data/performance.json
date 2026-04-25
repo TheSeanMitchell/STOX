@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T14:49:33.139712+00:00",
-  "total_cards": 29,
+  "updated_at": "2026-04-25T15:45:52.216011+00:00",
+  "total_cards": 30,
   "cards": [
     {
       "date": "2026-04-23",
@@ -76,7 +76,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:33.686588+00:00"
+      "last_updated": "2026-04-25T15:45:52.847545+00:00"
     },
     {
       "date": "2026-04-23",
@@ -126,7 +126,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:33.869342+00:00"
+      "last_updated": "2026-04-25T15:45:53.035322+00:00"
     },
     {
       "date": "2026-04-23",
@@ -202,7 +202,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:34.409423+00:00"
+      "last_updated": "2026-04-25T15:45:53.433492+00:00"
     },
     {
       "date": "2026-04-23",
@@ -252,7 +252,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:34.568110+00:00"
+      "last_updated": "2026-04-25T15:45:53.519415+00:00"
     },
     {
       "date": "2026-04-23",
@@ -276,7 +276,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:34.651584+00:00"
+      "last_updated": "2026-04-25T15:45:53.561468+00:00"
     },
     {
       "date": "2026-04-24",
@@ -313,7 +313,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:34.672340+00:00"
+      "last_updated": "2026-04-25T15:45:53.597312+00:00"
     },
     {
       "date": "2026-04-24",
@@ -363,7 +363,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.096145+00:00"
+      "last_updated": "2026-04-25T15:45:53.968260+00:00"
     },
     {
       "date": "2026-04-24",
@@ -413,7 +413,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.128265+00:00"
+      "last_updated": "2026-04-25T15:45:54.023295+00:00"
     },
     {
       "date": "2026-04-24",
@@ -450,7 +450,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.421053+00:00"
+      "last_updated": "2026-04-25T15:45:54.269095+00:00"
     },
     {
       "date": "2026-04-24",
@@ -500,7 +500,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.525820+00:00"
+      "last_updated": "2026-04-25T15:45:54.362492+00:00"
     },
     {
       "date": "2026-04-24",
@@ -589,7 +589,7 @@
       "current_value": 600.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.790532+00:00"
+      "last_updated": "2026-04-25T15:45:54.598469+00:00"
     },
     {
       "date": "2026-04-24",
@@ -652,7 +652,7 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:35.949396+00:00"
+      "last_updated": "2026-04-25T15:45:54.812796+00:00"
     },
     {
       "date": "2026-04-24",
@@ -715,7 +715,7 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:36.524954+00:00"
+      "last_updated": "2026-04-25T15:45:55.167692+00:00"
     },
     {
       "date": "2026-04-24",
@@ -791,7 +791,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:36.954998+00:00"
+      "last_updated": "2026-04-25T15:45:55.472572+00:00"
     },
     {
       "date": "2026-04-24",
@@ -841,7 +841,7 @@
       "current_value": 300.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:37.103457+00:00"
+      "last_updated": "2026-04-25T15:45:55.581721+00:00"
     },
     {
       "date": "2026-04-24",
@@ -917,7 +917,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:37.358199+00:00"
+      "last_updated": "2026-04-25T15:45:55.763351+00:00"
     },
     {
       "date": "2026-04-24",
@@ -941,7 +941,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:37.484567+00:00"
+      "last_updated": "2026-04-25T15:45:55.842823+00:00"
     },
     {
       "date": "2026-04-24",
@@ -1004,7 +1004,7 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:37.956258+00:00"
+      "last_updated": "2026-04-25T15:45:56.337491+00:00"
     },
     {
       "date": "2026-04-24",
@@ -1106,7 +1106,7 @@
       "current_value": 700.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:38.267656+00:00"
+      "last_updated": "2026-04-25T15:45:56.576377+00:00"
     },
     {
       "date": "2026-04-24",
@@ -1182,7 +1182,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:38.997320+00:00"
+      "last_updated": "2026-04-25T15:45:56.980947+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1206,7 +1206,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:39.118055+00:00"
+      "last_updated": "2026-04-25T15:45:57.052618+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1243,7 +1243,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:39.303009+00:00"
+      "last_updated": "2026-04-25T15:45:57.144946+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1319,7 +1319,7 @@
       "current_value": 500.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:39.586677+00:00"
+      "last_updated": "2026-04-25T15:45:57.368842+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1382,7 +1382,7 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:39.867398+00:00"
+      "last_updated": "2026-04-25T15:45:57.574599+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1406,7 +1406,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:39.987132+00:00"
+      "last_updated": "2026-04-25T15:45:57.644854+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1443,7 +1443,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:40.117392+00:00"
+      "last_updated": "2026-04-25T15:45:57.731598+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1480,7 +1480,7 @@
       "current_value": 200.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:40.248979+00:00"
+      "last_updated": "2026-04-25T15:45:57.823964+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1504,7 +1504,7 @@
       "current_value": 100.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:40.377137+00:00"
+      "last_updated": "2026-04-25T15:45:57.895886+00:00"
     },
     {
       "date": "2026-04-25",
@@ -1567,7 +1567,57 @@
       "current_value": 400.0,
       "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
       "percent_return": 0.0,
-      "last_updated": "2026-04-25T14:49:40.697482+00:00"
+      "last_updated": "2026-04-25T15:45:58.123837+00:00"
+    },
+    {
+      "date": "2026-04-25",
+      "generated_at": "2026-04-25T15:45:52.214004+00:00",
+      "assets": [
+        {
+          "ticker": "CRWD",
+          "signal": "BUY",
+          "confidence": 0.674,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.228,
+          "rationale": "Based on 18 articles from 2 sources. Sentiment score: +0.228. Positive signals: 3, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 448.1300048828125,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "SOL",
+          "signal": "BUY",
+          "confidence": 0.524,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.2844,
+          "rationale": "Based on 4 articles from 3 sources. Sentiment score: +0.284. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": null,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        },
+        {
+          "ticker": "TSM",
+          "signal": "BUY",
+          "confidence": 0.234,
+          "buy_price": null,
+          "shares": null,
+          "allocated": 100.0,
+          "sentiment_score": 0.268,
+          "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.268. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE.",
+          "current_price": 402.4599914550781,
+          "current_value": 100.0,
+          "return_pct": 0.0
+        }
+      ],
+      "total_invested": 300.0,
+      "current_value": 300.0,
+      "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
+      "percent_return": 0.0,
+      "last_updated": "2026-04-25T15:45:58.235797+00:00"
     }
   ],
   "all_time_best": {
@@ -1644,7 +1694,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-25T14:49:33.686588+00:00"
+    "last_updated": "2026-04-25T15:45:52.847545+00:00"
   },
   "all_time_worst": {
     "date": "2026-04-23",
@@ -1720,7 +1770,7 @@
     "current_value": 500.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice.",
     "percent_return": 0.0,
-    "last_updated": "2026-04-25T14:49:33.686588+00:00"
+    "last_updated": "2026-04-25T15:45:52.847545+00:00"
   },
   "fomo_message": "Had you followed our simulated picks on 2026-04-23, your $1,000 would now be worth $500.00 (+0.0%). \ud83d\ude80"
 }
