@@ -1395,5 +1395,44 @@
     "total_invested": 200.0,
     "current_value": 200.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-25",
+    "generated_at": "2026-04-25T19:53:42.346859+00:00",
+    "assets": [
+      {
+        "ticker": "BAC",
+        "signal": "BUY",
+        "confidence": 0.604,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2263,
+        "rationale": "Based on 18 articles from 1 sources. Sentiment score: +0.226. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "PANW",
+        "signal": "BUY",
+        "confidence": 0.498,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2466,
+        "rationale": "Based on 9 articles from 1 sources. Sentiment score: +0.247. Positive signals: 2, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "SOL",
+        "signal": "BUY",
+        "confidence": 0.234,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.287,
+        "rationale": "Based on 1 articles from 1 sources. Sentiment score: +0.287. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 300.0,
+    "current_value": 300.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
