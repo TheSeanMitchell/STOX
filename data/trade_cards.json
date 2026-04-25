@@ -1122,5 +1122,34 @@
     "total_invested": 200.0,
     "current_value": 200.0,
     "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
+  },
+  {
+    "date": "2026-04-25",
+    "generated_at": "2026-04-25T11:44:41.209541+00:00",
+    "assets": [
+      {
+        "ticker": "ASML",
+        "signal": "BUY",
+        "confidence": 0.488,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.38,
+        "rationale": "Based on 3 articles from 3 sources. Sentiment score: +0.380. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      },
+      {
+        "ticker": "SOL",
+        "signal": "BUY",
+        "confidence": 0.645,
+        "buy_price": null,
+        "shares": null,
+        "allocated": 100.0,
+        "sentiment_score": 0.2858,
+        "rationale": "Based on 15 articles from 2 sources. Sentiment score: +0.286. Positive signals: 1, Negative signals: 0. \u26a0\ufe0f EDUCATIONAL SIMULATION ONLY \u2014 NOT FINANCIAL ADVICE."
+      }
+    ],
+    "total_invested": 200.0,
+    "current_value": 200.0,
+    "disclaimer": "SIMULATED PORTFOLIO \u2014 Educational purposes only. Not real money, not financial advice."
   }
 ]
